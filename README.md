@@ -2,7 +2,7 @@
 
 ---
 ### CITS1401 - Computational Thinking with Python - Project_1 - (2020/SEM-1)
-#### University of Western Australia
+#### The University of Western Australia
 
 ---
 #### Overview
